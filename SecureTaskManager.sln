@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureTaskManager", "SecureTaskManager.csproj", "{ED7FB65B-0767-484E-9A64-7AE0ABE00EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7FB65B-0767-484E-9A64-7AE0ABE00EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7FB65B-0767-484E-9A64-7AE0ABE00EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7FB65B-0767-484E-9A64-7AE0ABE00EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7FB65B-0767-484E-9A64-7AE0ABE00EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480D20A0-9511-4C13-9349-36D6308379E4}
+	EndGlobalSection
+EndGlobal
